@@ -1,3 +1,15 @@
+# AWS ECR Terraform Module #
+
+This Terraform module deploys an AWS ECR manage cross account access and lifecycle policies.
+
+[![](https://github.com/idjemaoune/terraform-aws-ecr/workflows/Terraform/badge.svg)](https://github.com/idjemaoune/terraform-aws-ecr/actions?query=workflow%3ATerraform)
+[![](https://img.shields.io/github/license/idjemaoune/terraform-aws-ecr)](https://github.com/idjemaoune/terraform-aws-ecr)
+[![](https://img.shields.io/github/issues/idjemaoune/terraform-aws-ecr)](https://github.com/idjemaoune/terraform-aws-ecr)
+[![](https://img.shields.io/github/issues-closed/idjemaoune/terraform-aws-ecr)](https://github.com/idjemaoune/terraform-aws-ecr)
+[![](https://img.shields.io/github/languages/code-size/idjemaoune/terraform-aws-ecr)](https://github.com/idjemaoune/terraform-aws-ecr)
+[![](https://img.shields.io/github/repo-size/idjemaoune/terraform-aws-ecr)](https://github.com/idjemaoune/terraform-aws-ecr)
+
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
