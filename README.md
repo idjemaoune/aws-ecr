@@ -40,5 +40,9 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_name"></a> [name](#output\_name) | The name of the repository. |
+| <a name="output_registry_id"></a> [registry\_id](#output\_registry\_id) | The registry ID of the repository |
+| <a name="output_repository_url"></a> [repository\_url](#output\_repository\_url) | The URL of the repository |
 <!-- END_TF_DOCS -->
