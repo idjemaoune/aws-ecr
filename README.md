@@ -3,13 +3,13 @@
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | 4.8.0 |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 4.21.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws"></a> [aws](#provider\_aws) | 4.8.0 |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | >= 4.21.0 |
 
 ## Modules
 
@@ -19,10 +19,10 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [aws_ecr_lifecycle_policy.lifecycle_policy](https://registry.terraform.io/providers/hashicorp/aws/4.8.0/docs/resources/ecr_lifecycle_policy) | resource |
-| [aws_ecr_repository.repository](https://registry.terraform.io/providers/hashicorp/aws/4.8.0/docs/resources/ecr_repository) | resource |
-| [aws_ecr_repository_policy.repository_policy](https://registry.terraform.io/providers/hashicorp/aws/4.8.0/docs/resources/ecr_repository_policy) | resource |
-| [aws_iam_policy_document.policy](https://registry.terraform.io/providers/hashicorp/aws/4.8.0/docs/data-sources/iam_policy_document) | data source |
+| [aws_ecr_lifecycle_policy.lifecycle_policy](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ecr_lifecycle_policy) | resource |
+| [aws_ecr_repository.repository](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ecr_repository) | resource |
+| [aws_ecr_repository_policy.repository_policy](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ecr_repository_policy) | resource |
+| [aws_iam_policy_document.policy](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/iam_policy_document) | data source |
 
 ## Inputs
 
